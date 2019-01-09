@@ -1,0 +1,254 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "albumName": "Dogs",
+            "coverPhoto": "https://www.northumbria-cottages.co.uk/phpmedia/graphics/9b7c10d7006b2ffb7599b2924c293c97.jpg"
+        },
+        {
+            "id": 2,
+            "albumName": "Anime",
+            "coverPhoto": "https://s3.amazonaws.com/tinycards/image/39141c1c28d1e0da802d244cbada2e62"
+        },
+        {
+            "id": 3,
+            "albumName": "Exotic Animals",
+            "coverPhoto": "https://www.thehansindia.com/assets/6456_Animal-World.jpg"
+        },
+        {
+            "id": 4,
+            "albumName": "Nature",
+            "coverPhoto": "http://atgbcentral.com/data/out/27/4121546-nature-wallpapers-free-download.jpg"
+        },
+        {
+            "id": 5,
+            "albumName": "Star Wars",
+            "coverPhoto": "https://i0.wp.com/disneynews.us/wp-content/uploads/2016/09/Star-Wars-Logo.jpg?resize=260%2C146&ssl=1"
+        },
+        {
+            "id": 6,
+            "albumName": "Games",
+            "coverPhoto": "https://cdn.images.express.co.uk/img/dynamic/143/590x/Nintendo-Switch-games-888123.jpg"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "name": "Le Pug",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPc_GjE86LCz83ZkzpLVcc1nRUupmHz7tIlWMyWImw9s2W6N5C",
+            "albumId": 1
+        },
+        {
+            "id": 2,
+            "name": "Str8 Chillin",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvGAkfd31iybeC1la5dGdy4oK8_w3F-gk4rRmJIlNjWJiP61e",
+            "albumId": 1
+        },
+        {
+            "id": 3,
+            "name": "Big Chungus",
+            "photo": "http://nebula.wsimg.com/4559622443f665ab9da1a7a6d638ffd8?AccessKeyId=47423A947C9806A7E541&disposition=0&alloworigin=1",
+            "albumId": 1
+        },
+        {
+            "id": 4,
+            "name": "Lord Huskeroni",
+            "photo": "http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Siberian-Husky-2.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 5,
+            "name": "The German Shepard",
+            "photo": "http://www.germanwatchdogs.com/wp-content/uploads/2015/05/photo41.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 6,
+            "name": "Big Pug",
+            "photo": "https://1.bp.blogspot.com/-gBmq0manbHY/V-RACa5VHlI/AAAAAAAAFEs/8pqGrZhXfbwg_J8OXVGsovbeb1kZ8VOrgCLcB/s1600/Bullmastiff-final.jpg",
+            "albumId": 1
+        },
+        {
+            "id": 7,
+            "name": "Goku vs. Kid Buu",
+            "photo": "https://jctunesmusic.files.wordpress.com/2015/06/1206055417_f1.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 8,
+            "name": "Luffy vs. Doflamingo",
+            "photo": "http://images6.fanpop.com/image/photos/40200000/-Doflamingo-vs-Luffy-monkey-d-luffy-40233218-500-281.gif",
+            "albumId": 2
+        },
+        {
+            "id": 9,
+            "name": "Naruto vs. Pain",
+            "photo": "https://novembrepleut.files.wordpress.com/2014/12/naruto_vs_pain_by_wastingoxygen-d3axr6d.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 10,
+            "name": "Gohan vs. Cell",
+            "photo": "https://media.giphy.com/media/wNc2Ax8EJbQKk/giphy.gif",
+            "albumId": 2
+        },
+        {
+            "id": 11,
+            "name": "Gon vs. Hisoka",
+            "photo": "https://i.ytimg.com/vi/LUp7wTHGcTM/maxresdefault.jpg",
+            "albumId": 2
+        },
+        {
+            "id": 12,
+            "name": "Human Race vs. Anti-Spiral",
+            "photo": "https://i.pinimg.com/originals/29/3c/8d/293c8d3d5edf3a7366ae52e59640b253.gif",
+            "albumId": 2
+        },
+        {
+            "id": 13,
+            "name": "Long Neck Horse",
+            "photo": "https://www.oregonzoo.org/sites/default/files/styles/exhibit_photo/public/beanslide/H_Giraffe-Desi.jpg?itok=-HYcUCRi",
+            "albumId": 3
+        },
+        {
+            "id": 14,
+            "name": "Perry the Platypus",
+            "photo": "https://cdn.britannica.com/s:500x350/48/94548-004-19138F8D.jpg",
+            "albumId": 3
+            
+        },
+        {
+            "id": 15,
+            "name": "Frilled Lizard",
+            "photo": "http://rivista-cdn.reptilesmagazine.com/Frilled7.jpg?ver=1391039366",
+            "albumId": 3
+        },
+        {
+            "id": 16,
+            "name": "The Tapir",
+            "photo": "https://media.mnn.com/assets/images/2018/02/tapir-nose.jpg.990x0_q80_crop-smart.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 17,
+            "name": "The Mudskipper",
+            "photo": "https://ichef.bbci.co.uk/images/ic/480xn/p02vh1hc.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 18,
+            "name": "Gulper Eel",
+            "photo": "https://i.redd.it/fo5opkviye611.jpg",
+            "albumId": 3
+        },
+        {
+            "id": 19,
+            "name": "Beach Arc",
+            "photo": "https://www.californiabeaches.com/wp-content/uploads/2014/09/14302452-933x700.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 20,
+            "name": "Red Rock Formation",
+            "photo": "https://michaeltyrrell.files.wordpress.com/2011/11/263433-nevada-red-rock-canyon.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 21,
+            "name": "Mtn Forest",
+            "photo": "https://www.discovertheforest.org/wp-content/uploads/2018/01/01.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 22,
+            "name": "Desert",
+            "photo": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Sahara-ice-snow-desert-797256.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 23,
+            "name": "Rainforest",
+            "photo": "http://sciencenordic.com/sites/default/files/p_33_montane_forests_udzungwa_lille_0.jpg",
+            "albumId": 4
+        },
+        {
+            "id": 24,
+            "name": "Artic",
+            "photo": "https://cdna.artstation.com/p/assets/images/images/002/014/172/large/steve-lund-final-render-web.jpg?1455985992",
+            "albumId": 4
+        },
+        {
+            "id": 25,
+            "name": "General Grievous",
+            "photo": "https://lumiere-a.akamaihd.net/v1/images/General-Grievous_c9df9cb5.jpeg?region=0%2C0%2C1200%2C675&width=960",
+            "albumId": 5
+        },
+        {
+            "id": 26,
+            "name": "Yoda",
+            "photo": "https://media.comicbook.com/2017/09/yoda-the-empire-strikes-back-star-wars-1019578-1280x0.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 27,
+            "name": "Darth Vader",
+            "photo": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/85600c5f-77e0-4d24-b2f5-8e442b8b3625.jpg",
+            "albumId": 5
+        },
+        {
+            "id": 28,
+            "name": "Ben Kenobi",
+            "photo": "https://upload.wikimedia.org/wikipedia/en/3/32/Ben_Kenobi.png",
+            "albumId": 5
+        },
+        {
+            "id": 29,
+            "name": "Boba Fett",
+            "photo": "https://cdn.shopify.com/s/files/1/0784/0133/products/Boba_Fett_2_2bd57c36-2d60-4b7f-a8cb-1c0c785a6d71_1200x1200.jpg?v=1454096516",
+            "albumId": 5
+            
+        },
+        {
+            "id": 30,
+            "name": "Clone Commander",
+            "photo": "https://www.wired.com/wp-content/uploads/images_blogs/photos/uncategorized/2008/11/10/cody.jpeg",
+            "albumId": 5
+        },
+        {
+            "id": 31,
+            "name": "Pokemon",
+            "photo": "https://cdn.gamerant.com/wp-content/uploads/Pokemon-Games.jpg.optimal.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 32,
+            "name": "Mario",
+            "photo": "http://assets1.ignimgs.com/2017/10/23/mariogames-1280-1508779171269_1280w.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 33,
+            "name": "Halo",
+            "photo": "https://static.comicvine.com/uploads/original/14/145389/4455677-3644927309-20130.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 34,
+            "name": "Skyrim",
+            "photo": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2018/04/skyrim-vr.jpg",
+            "albumId": 6
+        },
+        {
+            "id": 35,
+            "name": "Borderlands",
+            "photo": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcekFhprTWnx97iRnDYFCvyaZSrFn15plAhKay_zhZPfDA3rGduEt0xqRhYxENNdgZnAknPigV_Va.690ubqoahlNNgwHqhtsG_Ei3hHncqF2Sxq2D8_7i_brL0ONp9Ho4a8S8MxyEVKbx.Z9pTx7uuMtTK8XRWnjAJxHAYuEyXH4-&h=1080&w=1920&format=jpg",
+            "albumId": 6
+        },
+        {
+            "id": 36,
+            "name": "Legend of Zelda",
+            "photo": "https://images5.alphacoders.com/823/823135.png",
+            "albumId": 6
+        }
+    ]
+}

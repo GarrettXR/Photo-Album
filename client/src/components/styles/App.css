@@ -1,0 +1,182 @@
+#block1{
+  margin:0 auto;
+  background-image: url(https://melissatadlock.files.wordpress.com/2011/03/pattern-11.jpg);
+  width: cover;
+}
+
+#title1{
+  width: 1200px;
+  margin:0 auto;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: white;
+  text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+    2px 2px 0 #000;
+    background-image: linear-gradient(white, grey);
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+#container1{
+  margin:0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width:1200px;
+}
+
+.albumTitle{
+  margin: 10px;
+}
+
+.albumCovers{
+  width: 500px;
+  border:2px solid black;
+  border-radius: 5px;
+}
+
+.albumName{
+  margin: 0;
+  width: 500px;
+  color:black;
+  text-align: center;
+  background-color: white;
+  border:2px solid black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+#block2{
+  background-image: url(https://melissatadlock.files.wordpress.com/2011/03/pattern-11.jpg);
+  width: cover;
+}
+
+#container3{
+  margin:0 auto;
+  width:1520px;
+}
+
+#albumName1{
+height: 100px;
+width:1505.7px;
+font-size: 50px;
+margin:5px;
+line-height: 0px;
+text-align:center;
+font-weight: bold;
+  color: white;
+  text-shadow:
+		1px 1px 0 #000,
+		1px 1px 0 #000,
+		1px 1px 0 #000,
+    1px 1px 0 #000;
+    background-image: linear-gradient(white, grey);
+    border:2px solid black;
+    border-radius: 5px;
+}
+ 
+#container2{
+  display: flex;
+}
+
+#sidebar{
+  height:1200px;
+  background-color: white;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+.tabs{
+  font-size: 40px;
+  font-weight: bold;
+  color:black;
+  text-decoration: none;
+  padding: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#visuals{
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid black;
+  margin: 5px;
+  width: 1200px;
+  background-color: black;
+}
+
+#imgContainer{
+  height:250px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.imagePage{
+  width: 300px;
+  margin: 10px;
+  animation: width 1;
+}
+
+.imagePage:hover{
+  width: 350px;
+}
+
+.imageName{
+  padding-left:10px;
+  margin:0;
+  font-size: 20px;
+  color:white;
+}
+
+@media only screen and (max-width: 1250px) {
+  
+  #title1{
+    width: 750px;
+    font-size: 50px;
+  }
+  
+  #container1{
+    width:750px;
+  }
+  
+  .albumTitle{
+    width:300px;
+  }
+  
+  .albumCovers{
+    width: 300px;
+  }
+  
+  .albumName{
+    width: 300px;
+  }
+
+  #sidebar{
+    height: 600px;
+  }
+  
+  .tabs{
+    font-size: 20px;
+    padding: 15px;
+  }
+
+  #visuals{
+    width: 600px;
+  }
+  
+  #imgContainer{
+    height:125px;
+  }
+  
+  .imagePage{
+    width: 150px;
+  }
+
+}
