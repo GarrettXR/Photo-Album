@@ -21,7 +21,7 @@ componentDidMount() {
             <div id="title1">My Albums</div>
             <div id="container1">
             {this.state.albums.map(home => (
-                <Link to={`/albums/${home.id}`}><div key={home} className="albumTitle"><img src={home.coverPhoto} className="albumCovers"/><h1 className="albumName">{home.albumName}</h1></div></Link>
+                <Link to={`/albums/${home.id}`}><div className="albumTitle"><img src={home.coverPhoto} className="albumCovers"/><h1 className="albumName">{home.albumName}</h1></div></Link>
             ))}
             </div>
           </div>

@@ -1,7 +1,9 @@
+html {box-sizing:border-box; background-image: url(https://melissatadlock.files.wordpress.com/2011/03/pattern-11.jpg);
+  width: cover;}
+*,* :after, *:before {box-sizing:inherit;}
+
 #block1{
   margin:0 auto;
-  background-image: url(https://melissatadlock.files.wordpress.com/2011/03/pattern-11.jpg);
-  width: cover;
 }
 
 #title1{
@@ -51,11 +53,6 @@
 a{
   text-decoration: none;
   color: black;
-}
-
-#block2{
-  background-image: url(https://melissatadlock.files.wordpress.com/2011/03/pattern-11.jpg);
-  width: cover;
 }
 
 #container3{
@@ -133,6 +130,19 @@ font-weight: bold;
   margin:0;
   font-size: 20px;
   color:white;
+}
+
+#photoName{
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 1000px;
+  text-align: center;
+  border: 2px solid black;
+  background: lightgray;
+}
+
+#pb{
+  margin-top: 50px;
 }
 
 @media only screen and (max-width: 1250px) {
